@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ramyhakam1" target="blank"><img src="https://img.shields.io/twitter/follow/ramyhakam1?logo=twitter&style=for-the-badge" alt="ramyhakam1" /></a> </p>
 
-- 🔭 I’m currently working at **Saloodo GmbH**
+- 🔭 I’m currently working at **TAKKT Group**
 
 - 🌱 I’m currently learning **Symfony 5 ,Go**
 
