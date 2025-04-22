@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at **TAKKT Group**
 
-- 🌱 I’m currently learning **Symfony 5 ,Go**
+- 🌱 I’m currently learning **Symfony 6,7 ,Java**
 
 - 💬 Ask me about **PHP ,Symfony ,Doctrine ,Docker**
 
