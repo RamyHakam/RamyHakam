@@ -16,7 +16,7 @@
 </p>
 
 ### 🚀 About Me  
-🔹  8+ years of experience building **scalable backend systems**  
+🔹  9+ years of experience building **scalable backend systems**  
 🔹 Currently based in **Cologne, Germany 🇩🇪** (originally from Egypt 🇪🇬)  
 🔹 Passionate about **clean architecture, open source, and AI in PHP**  
 
@@ -24,7 +24,6 @@
 
 ### 🔭 What I’m Working On  
 - 🏢 Senior Backend Engineer at **[Metro Markets GmbH](https://www.metro-markets.de/)**  
-- 🌍 Founder of **[DevJets.io](https://devjets.io)** → connecting Egyptian tech talent with EU companies  
 - 📦 Open-source bundles:  
   - [Multi-Tenancy Bundle](https://github.com/RamyHakam/multi_tenancy_bundle) (Symfony database-per-tenant solution)  
   - [AI Log Inspector](https://github.com/RamyHakam/ai-log-inspector-agent) (AI-powered log analysis tools for PHP/Symfony)  
